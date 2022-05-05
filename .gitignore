@@ -1,2 +1,3 @@
 domain_adaptation/data
 domain_adaptation/.ipynb_checkpoints
+domain_adaptation/__pycache__
